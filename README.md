@@ -1,15 +1,17 @@
 # 🔵 My Story
-🏆 5x Hackathon Winner <br> SIH'24 Grand Finalist <br> CS Student
+🏆 5× Hackathon Winner · SIH'24 Grand Finalist · CS Student
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-1A1A1A.svg?style=for-the-badge&logo=discord&logoColor=7FFF00)](https://discord.gg/https://discord.gg/Gdt6nsBT)
-[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A.svg?style=for-the-badge&logo=instagram&logoColor=7FFF00)](https://www.instagram.com/one.waseem/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A.svg?style=for-the-badge&logo=linkedin&logoColor=7FFF00)](https://linkedin.com/in/mohammed1waseemuddin)
-[![Medium](https://img.shields.io/badge/Medium-1A1A1A.svg?style=for-the-badge&logo=medium&logoColor=7FFF00)](https://medium.com/@@procarx911)
-[![Quora](https://img.shields.io/badge/Quora-1A1A1A.svg?style=for-the-badge&logo=quora&logoColor=7FFF00)](https://quora.com/profile/PRO-CAR-1)
-[![Email](https://img.shields.io/badge/Email-1A1A1A.svg?style=for-the-badge&logo=gmail&logoColor=7FFF00)](mailto:procarx911@gmail.com)
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-1A1A1A.svg?style=for-the-badge&logo=discord&logoColor=7FFF00)](https://discord.gg/Gdt6nsBT)  
+[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A.svg?style=for-the-badge&logo=instagram&logoColor=7FFF00)](https://www.instagram.com/one.waseem/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A.svg?style=for-the-badge&logo=linkedin&logoColor=7FFF00)](https://linkedin.com/in/mohammed1waseemuddin)  
+[![Medium](https://img.shields.io/badge/Medium-1A1A1A.svg?style=for-the-badge&logo=medium&logoColor=7FFF00)](https://medium.com/@@procarx911)  
+[![Quora](https://img.shields.io/badge/Quora-1A1A1A.svg?style=for-the-badge&logo=quora&logoColor=7FFF00)](https://quora.com/profile/PRO-CAR-1)  
+[![Email](https://img.shields.io/badge/Email-1A1A1A.svg?style=for-the-badge&logo=gmail&logoColor=7FFF00)](mailto:procarx911@gmail.com)  
 
-# 💻 Tech Stack:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-1A1A1A.svg?style=for-the-badge&logo=google-chrome&logoColor=7FFF00)](https://waseemuddinsportfolio.vercel.app/)
+
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-1A1A1A.svg?style=for-the-badge&logo=python&logoColor=7FFF00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1A1A1A.svg?style=for-the-badge&logo=opencv&logoColor=7FFF00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1A1A1A.svg?style=for-the-badge&logo=pytorch&logoColor=7FFF00)
@@ -27,9 +29,9 @@
 ![Figma](https://img.shields.io/badge/Figma-1A1A1A.svg?style=for-the-badge&logo=figma&logoColor=7FFF00)
 ![Canva](https://img.shields.io/badge/Canva-1A1A1A.svg?style=for-the-badge&logo=canva&logoColor=7FFF00)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=waseem-srt&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=waseem-srt&theme=chartreuse-dark&hide_border=false)<br/>
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=waseem-srt&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=waseem-srt&theme=chartreuse-dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-srt&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
