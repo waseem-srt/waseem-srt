@@ -48,16 +48,4 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waseem-srt&theme=chartreuse-dark&no-frame=true&no-bg=false&margin-w=4">
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=waseem-srt&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true">
-</p>
-
 
