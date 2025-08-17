@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-1A1A1A.svg?style=for-the-badge&logo=discord&logoColor=7FFF00)](https://discord.gg/https://discord.gg/Gdt6nsBT)
-[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A.svg?style=for-the-badge&logo=instagram&logoColor=7FFF00)](https://instagram.com/yourswaseeem)
+[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A.svg?style=for-the-badge&logo=instagram&logoColor=7FFF00)](https://www.instagram.com/one.waseem/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A.svg?style=for-the-badge&logo=linkedin&logoColor=7FFF00)](https://linkedin.com/in/mohammed1waseemuddin)
 [![Medium](https://img.shields.io/badge/Medium-1A1A1A.svg?style=for-the-badge&logo=medium&logoColor=7FFF00)](https://medium.com/@@procarx911)
 [![Quora](https://img.shields.io/badge/Quora-1A1A1A.svg?style=for-the-badge&logo=quora&logoColor=7FFF00)](https://quora.com/profile/PRO-CAR-1)
