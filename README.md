@@ -60,12 +60,4 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=waseem-srt&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true">
 </p>
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=waseem-srt&icon=5&color=7FFF00">
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
