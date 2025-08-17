@@ -1,7 +1,11 @@
 # 🔵 My Story  
 🏆 5x Hackathon Winner • SIH'24 Grand Finalist • CS Student  
 
-🚀 **[🌐 Visit My Portfolio](https://waseem-portfolio.vercel.app)** 🚀  
+<p align="center">
+  <a href="https://waseemuddinsportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=7FFF00&labelColor=1A1A1A&color=7FFF00">
+  </a>
+</p>
 
 ---
 
