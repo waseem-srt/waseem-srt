@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1A1A1A.svg?style=for-the-badge&logo=python&logoColor=7FFF00">
   <img src="https://img.shields.io/badge/OpenCV-1A1A1A.svg?style=for-the-badge&logo=opencv&logoColor=7FFF00">
@@ -43,11 +43,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waseem-srt&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false" height="150">
   <img src="https://nirzak-streak-stats.vercel.app/?user=waseem-srt&theme=chartreuse-dark&hide_border=false" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-srt&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150">
 </p>
 
 ---
