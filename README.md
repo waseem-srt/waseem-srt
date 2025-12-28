@@ -1,5 +1,5 @@
 # 🔵 My Story  
-🏆 5x Hackathon Winner • SIH'24 Grand Finalist • CS Student  
+🏆 5x Hackathon Winner • SIH'25 Winner • SIH'24 Grand Finalist • CSE(AI/ML) + Civil Engineering  
 
 <p align="center">
   <a href="https://waseemuddinsportfolio.vercel.app/">
